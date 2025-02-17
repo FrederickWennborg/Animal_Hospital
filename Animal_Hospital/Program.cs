@@ -20,7 +20,19 @@
                 new Animal("Turtle", "Shelly", 50, 4, false, Colour.Patterned)
             };
 
-            
+            // 1. Hur många hundar?
+
+
+            // 2. Äldsta djuret
+
+
+            // 3. Ny lista med bara vaccinerade djur
+
+
+            // 4. Ny lista med 4-benta djur äldre än 3 år
+
+
+            // 5. Finns det ett djur som heter Shadow?
 
         }
     }
